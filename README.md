@@ -211,23 +211,23 @@ Keep only the features implemented in the final report:
 
 ### Business Overview
 
-![Business Overview dashboard](screenshots/business overview.png)
+[Business Overview dashboard](screenshots/business overview.png)
 
 ### Route Performance
 
-![Route Performance dashboard](screenshots/route performance.png)
+[Route Performance dashboard](screenshots/route performance.png)
 
 ### Revenue & Cost Analysis
 
-![Revenue and Cost Analysis dashboard](screenshots/revenue cost analysis.png)
+[Revenue and Cost Analysis dashboard](screenshots/revenue cost analysis.png)
 
 ### Aircraft & Occupancy
 
-![Aircraft and Occupancy dashboard](screenshots/aircraft occupancy.png)
+[Aircraft and Occupancy dashboard](screenshots/aircraft occupancy.png)
 
 ### Season & Demand
 
-![Season and Demand dashboard](screenshots/season demand.png)
+[Season and Demand dashboard](screenshots/season demand.png)
 
 
 ## Repository Structure
